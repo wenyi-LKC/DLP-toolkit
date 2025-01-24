@@ -1,4 +1,5 @@
 # DLP-toolkit
+Data Exfiltration server and powershell client. To be used on a windows victim.
 ## How to use
 ### 1.Start server
 ![image](https://github.com/user-attachments/assets/762b496c-51e7-4378-a0ca-9d61354b2a35)
